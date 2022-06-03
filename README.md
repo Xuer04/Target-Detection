@@ -1,2 +1,2 @@
 # Target-Detection
-This program uses the dnn model and yolo4 to detect different targets.
+An attempt of DNN and yolo4.
